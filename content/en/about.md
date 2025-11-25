@@ -6,20 +6,20 @@ sidebar:
 ---
 #### 何夕2077 / justlovemaki
 
-Been coding for a decade, fingers might be cool, but the fire in my belly was just waiting to ignite! 🔥 Now that the AI storm is raging, I'm ready to take on the heavens and give it my all! 🚀
+> My journey in tech? For a decade, code chilled my fingertips, with frustrations unvoiced. But then, the AI storm broke, and I swore to dive headfirst into the fray! 🚀
 
 #### My Code Philosophy
 
-My code philosophy is simple: Tech for the people, always! 🌐
+> My code philosophy is simple: technology should serve the people. Always! 💪
 
-#### My Showcase
+#### ✨ My Go-To Projects
 
-*   **[Open-Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    This project, an **AI image generation script**, runs on Cloudflare Workers. Super handy! ✨
-*   **[Open-Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    **Cloudflare AI Insight Daily** is my content aggregation and generation platform powered by Cloudflare Workers. It's awesome because it pulls in daily AI goodies for you: industry news, hot open-source projects, mind-blowing academic papers, and all the juicy social media takes from big tech personalities! 🤯
-*   Wanna see more? Dive into my [GitHub](https://github.com/justlovemaki) for all the nitty-gritty details! 👇
+*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   My `CloudFlare-AI-Image` project? It's an AI image generation script, all powered by Cloudflare Workers. Pretty neat, right?
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   `CloudFlare-AI-Insight-Daily` is my go-to content aggregation and generation platform, fueled by Cloudflare Workers. It's designed to keep you updated daily on the latest AI happenings: industry news, hot open-source projects, cutting-edge academic papers, and even insights from tech bigwigs on social media. Everything you need! 🧠✨
+*   Wanna see more? You can snag all the juicy project details over on my [GitHub](https://github.com/justlovemaki). Go check it out! 👇
 
-#### What I'm Exploring Now
+#### 💡 Current Explorations
 
-Currently, **my passion lies in LLM applications and website SEO**. I'm totally geeking out, actively learning and hands-on experimenting in these fields! 🤓
+What am I diving into right now? I'm super passionate about LLM applications and website SEO! I'm actively learning and getting my hands dirty with both. The future is exciting!
